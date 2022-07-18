@@ -4,7 +4,7 @@
 
 <h3 align="center">Application that shows facts about cats</h3>
   <p align="center">
-    <a href="https://github.com/manuelalferez/cat-facts">View Demo</a>
+    <a href="https://cat-facts-manuel.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/manuelalferez/cat-facts/issues">Report Bug</a>
     ·
